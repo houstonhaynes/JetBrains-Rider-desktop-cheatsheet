@@ -37,7 +37,7 @@ Once you've landed on a design that suits your tastes/needs, the "Export" functi
 
 ## Fun & Profit
 
-This was a gratifying exercise - not only does it smooth out the learning curve for JetBrains Rider but it also gratifies my creative side a bit. And you should try it too. The export of the keymap to PDF was just a matter of adding the plugin in the editor (you'll find it under the Help menu after install) and you can customized things further to suit your needs. I love an easy win. :trophy:
+This was a gratifying exercise - not only does it smooth out the learning curve for JetBrains Rider but it also gratifies my creative side a bit. And you should try it too. The export of the keymap to PDF was just a matter of adding the plugin in the editor (you'll find it under the Help menu after install) and you can customize things further to suit your needs. I love an easy win. :trophy:
 
 ### QHD formatted wallpapers (WinOS keymaps)
 
